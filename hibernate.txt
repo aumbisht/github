@@ -1,1 +1,2 @@
-hibernate is open source ,light weighted and orm based framework
+hibernate is open source ,light weighted and orm based framework.
+it provides hql query which is db independent query.
