@@ -1,1 +1,2 @@
-it is advanced version of spring framwork which is total java based configuration
+it is advanced version of spring framwork which is total java based configuration.
+spring boot is too fast version.
